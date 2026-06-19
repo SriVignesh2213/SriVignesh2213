@@ -65,11 +65,9 @@ Machine Learning-based fraud detection system using the PaySim dataset.
 ### 📌 TrueLens AI
 Deep Learning project for AI-generated image detection.
 
-### 📌 Healthcare Resource Allocation
-Predictive analytics application built with FastAPI.
+### 📌 Docforge 
+A Document Formatter made using PymuPDF and pythondocx
 
-### 📌 BookBridge
-Smart platform connecting readers and book enthusiasts.
 
 ---
 
