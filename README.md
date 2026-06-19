@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sri Vignesh 👋</h1>
 
 <p align="center">
-AI & Data Science Undergraduate | Machine Learning Enthusiast | Open Source Learner
+AI & Data Science Undergraduate | Machine Learning Enthusiast | Open Source Learner | Making Data Driven Solutions
 </p>
 
 ---
@@ -16,7 +16,7 @@ AI & Data Science Undergraduate | Machine Learning Enthusiast | Open Source Lear
 
 🏆 NPTEL Programming in Java (IIT Kharagpur) – Elite Gold (90%)
 
-🥇 Hackathon & STEM Project Winner
+🥇 BIT Hackathon & STEM Project Winner
 
 🌱 Currently exploring:
 - Machine Learning & Deep Learning
@@ -87,8 +87,8 @@ Smart platform connecting readers and book enthusiasts.
 
 ## Connect With Me
 
-- LinkedIn: www.linkedin.com/in/sri-vignesh-a-a
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/sri-vignesh-r-a55bab339
+- Email: vigneshsri058@gmail.com
 
 ---
 
