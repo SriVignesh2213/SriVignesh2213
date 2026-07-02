@@ -10,7 +10,7 @@ AI & Data Science Undergraduate | Machine Learning Enthusiast | Open Source Lear
 
 🎓 B.Tech in Artificial Intelligence & Data Science at KPR Institute of Engineering and Technology
 
-📈 CGPA: 9.02
+📈 CGPA: 9.1
 
 💼 Infosys Springboard Internship 7.0 – Artificial Intelligence Domain
 
