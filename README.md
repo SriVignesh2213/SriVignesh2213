@@ -222,6 +222,7 @@ Python · FastAPI · Sentence Transformers · PyMuPDF · python-docx · React
   <img width="49%"
     src="https://github-stats-extended.vercel.app/api?username=SriVignesh2213&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF6B00&text_color=E5E7EB&icon_color=4A90E2&border_color=9C27B0"
     alt="GitHub Stats" />
+  <p align="center">
   <img width="49%"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=SriVignesh2213&layout=compact&theme=dark&bg_color=0D1117&title_color=FF6B00&text_color=E5E7EB&border_color=9C27B0"
     alt="Top Languages" />
