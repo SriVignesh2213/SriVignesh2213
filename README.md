@@ -216,16 +216,25 @@ Python · FastAPI · Sentence Transformers · PyMuPDF · python-docx · React
 
 ---
 
-## 📊 GitHub Analytics
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SriVignesh2213&show_icons=true&theme=dark&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB&icon_color=22C55E&border_color=166534" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriVignesh2213&layout=compact&theme=dark&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB&border_color=166534" alt="Top Languages" />
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=SriVignesh2213&show_icons=true&theme=dark&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB&icon_color=22C55E&border_color=166534"
+    alt="GitHub Stats" />
+
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=SriVignesh2213&layout=compact&theme=dark&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB&border_color=166534"
+    alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=SriVignesh2213&theme=dark&background=0D1117&border=166534&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=E5E7EB&currStreakNum=22C55E&sideNums=22C55E&dates=9CA3AF" alt="GitHub Streak" />
+  <img width="75%"
+    src="https://streak-stats.demolab.com?user=SriVignesh2213&theme=dark&background=0D1117&border=166534&ring=22C55E&fire=22C55E&currStreakLabel=22C55E"
+    alt="GitHub Streak" />
 </p>
+
 
 ---
 
