@@ -1,32 +1,32 @@
 
-<h1 align="center">Hi, I'm Sri Vignesh R 👋</h1>
+<h1 align="center">🍥 Hi, I'm Sri Vignesh R 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+Undergraduate;Aspiring+Full+Stack+%2F+ML+Engineer;Building+Intelligent+Data-Driven+Solutions;Exploring+AI%2C+ML+%26+Deep+Learning;Turning+Ideas+Into+Real-World+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+Undergraduate;Aspiring+Full+Stack+%2F+ML+Engineer;Building+Intelligent+Data-Driven+Solutions;Exploring+AI%2C+ML+%26+Deep+Learning;Turning+Ideas+Into+Real-World+Applications;Believe+It!+%F0%9F%8D%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-16A34A?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Domain-Machine%20Learning-16A34A?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Building-Full%20Stack%20Apps-16A34A?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-FF6B00?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Domain-Machine%20Learning-4A90E2?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Building-Full%20Stack%20Apps-9C27B0?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
 </p>
 
 <p align="center">
   <a href="https://github.com/SriVignesh2213">
-    <img src="https://img.shields.io/badge/GitHub-Follow-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-FF6B00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="mailto:vigneshsri058@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-22C55E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/Email-Contact-4A90E2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SriVignesh2213&label=PROFILE%20VIEWS&color=16A34A&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SriVignesh2213&label=PROFILE%20VIEWS&color=FF6B00&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 🟢 About Me
+## 🍃 About Me
 
 <p align="center">
   I'm <b>Sri Vignesh R</b>, an Artificial Intelligence and Data Science undergraduate at <b>KPR Institute of Engineering and Technology</b>. I'm passionate about developing intelligent applications and solving real-world problems through technology.
@@ -37,9 +37,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-B.Tech%20AI%20%26%20DS-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/CGPA-9.1-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Education-B.Tech%20AI%20%26%20DS-FF6B00?style=flat-square" />
+  <img src="https://img.shields.io/badge/CGPA-9.1-FFD700?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-4A90E2?style=flat-square" />
 </p>
 
 <p align="center">
@@ -50,13 +50,13 @@
 
 ---
 
-## 💼 Professional Experience
+## 🥷 Professional Experience
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<p align="center"><b>🤖 Infosys Springboard</b></p>
+<p align="center"><b>🍥 Infosys Springboard</b></p>
 <p align="center"><b>Artificial Intelligence Intern</b></p>
 <p align="center"><sub>June 2026 – September 2026 · Remote</sub></p>
 
@@ -85,7 +85,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
 <table width="100%">
 <tr>
@@ -149,7 +149,7 @@ Python · FastAPI · Sentence Transformers · PyMuPDF · python-docx · React
 
 ---
 
-## 🛠️ Tech Stack & Technologies
+## ⚔️ Tech Stack & Technologies
 
 ### Programming Languages
 
@@ -164,11 +164,11 @@ Python · FastAPI · Sentence Transformers · PyMuPDF · python-docx · React
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/XGBoost-0A0A0A?style=for-the-badge&logo=python&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/LightGBM-0A0A0A?style=for-the-badge&logo=python&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/SHAP-0A0A0A?style=for-the-badge&logo=python&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/RDKit-0A0A0A?style=for-the-badge&logo=python&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/XGBoost-0D1117?style=for-the-badge&logo=python&logoColor=4A90E2" />
+  <img src="https://img.shields.io/badge/LightGBM-0D1117?style=for-the-badge&logo=python&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/SHAP-0D1117?style=for-the-badge&logo=python&logoColor=9C27B0" />
+  <img src="https://img.shields.io/badge/RDKit-0D1117?style=for-the-badge&logo=python&logoColor=FF6B00" />
 </p>
 
 ### Frontend & Backend Development
@@ -216,25 +216,22 @@ Python · FastAPI · Sentence Transformers · PyMuPDF · python-docx · React
 
 ---
 
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🍥 GitHub Analytics</h2>
 
 <p align="center">
   <img width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=SriVignesh2213&show_icons=true&theme=dark&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB&icon_color=22C55E&border_color=166534"
+    src="https://github-stats-extended.vercel.app/api?username=SriVignesh2213&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF6B00&text_color=E5E7EB&icon_color=4A90E2&border_color=9C27B0"
     alt="GitHub Stats" />
-<p align="center">
   <img width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=SriVignesh2213&layout=compact&theme=dark&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB&border_color=166534"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=SriVignesh2213&layout=compact&theme=dark&bg_color=0D1117&title_color=FF6B00&text_color=E5E7EB&border_color=9C27B0"
     alt="Top Languages" />
 </p>
 
 <p align="center">
   <img width="75%"
-    src="https://streak-stats.demolab.com?user=SriVignesh2213&theme=dark&background=0D1117&border=166534&ring=22C55E&fire=22C55E&currStreakLabel=22C55E"
+    src="https://streak-stats.demolab.com?user=SriVignesh2213&theme=dark&background=0D1117&border=9C27B0&ring=FF6B00&fire=CC0000&currStreakLabel=FFD700"
     alt="GitHub Streak" />
 </p>
-
 
 ---
 
@@ -256,19 +253,19 @@ Python · FastAPI · Sentence Transformers · PyMuPDF · python-docx · React
 
 <p align="center">
   <a href="mailto:vigneshsri058@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-22C55E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-FF6B00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="https://github.com/SriVignesh2213">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-4A90E2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
 
 <p align="center">
-  <i>"Building with curiosity. Learning with purpose. Innovating with AI."</i>
+  <i>"Believe in your potential. Train with purpose. Build beyond limits. 🍥"</i>
 </p>
 
-<h3 align="center">💚 Thanks for visiting my profile!</h3>
+<h3 align="center">🟠 Dattebayo! Thanks for visiting my profile!</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:16a34a,100:22c55e&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:9C27B0,55:4A90E2,100:FF6B00&height=120&section=footer" width="100%" />
 </p>
